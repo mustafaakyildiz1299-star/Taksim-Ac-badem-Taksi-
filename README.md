@@ -1,7 +1,4 @@
 📞 İletişim Bilgileri
-
-| İletişim Kanalı | Bilgi / Bağlantı |
-| :--- | :--- |
 | **📱 Telefon** | [+902122500031](tel:+902122500032) (Tıkla Ara) |
 | **💬 WhatsApp** | [WhatsApp'tan Yaz](https://wa.me/905337321253) |
 | **📍 Adres** | Acıbadem Taksi Durağı,   şişli/İstanbul |
